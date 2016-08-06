@@ -1,0 +1,23 @@
+{
+  "name": "wp2ghost",
+  "version": "0.0.1",
+  "description": "Utility to correct Wordpress to Ghost content conversion issues",
+  "main": "app.js",
+  "dependencies": {
+    "uuid": "^2.0.2",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wordpress",
+    "ghost",
+    "blog",
+    "conversion",
+    "migration"
+  ],
+  "author": "Ashutosh Bijoor",
+  "license": "ISC"
+}
